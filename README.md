@@ -20,16 +20,16 @@ This repository contains an interactive analytics dashboard designed to analyze 
 ## Tools & Methods
 
 ### Tools
-* **Looker Studio:** Utilized to design and deploy dynamic, multi-page interactive dashboards with drill-down and parameter filtering capabilities.
-* **Data Transformation:** Processed, cleaned, and structured raw Google Play Store data for aggregated analysis.
+* **Tableau Desktop / Tableau Public:** Used to construct interactive charts, cross-filters, custom parameters, and dashboard views[cite: 2].
+* **Data Processing & Prep:** Aggregated, formatted, and parsed Google Play Store data records for analytics consumption[cite: 2].
 
 ### Methods
-* **Data Modeling & Calculations:** Engineered metrics for total install counts, app volume counts, average ratings, and review aggregations.
-* **Visualization Techniques:**
-  * **Scorecards:** Used at the top of the executive view for rapid KPI assessment.
-  * **Packed Bubble Charts:** Implemented to visualize market share dominance in app install totals by category.
-  * **Heatmaps & Matrix Distributions:** Used to examine app ratings cross-tabulated across specific rating bands and categories.
-  * **Interactive Parameters & Filters:** Built metric selectors and dynamic category filters to allow seamless drill-down from executive overviews to specific app sub-markets.
+* **Visualizations Applied:**
+  * **Scorecards:** Displays high-level aggregated summary metrics (Avg Rating, Installs, Reviews, Paid App %)[cite: 2].
+  * **Packed Bubble Charts:** Illustrates total installations categorized by market domain[cite: 2].
+  * **Bar & Column Graphs:** Highlights app distribution by category, rating frequency, and OS dependency[cite: 2].
+  * **Donut Charts:** Displays app business type splits (Free vs. Paid offerings)[cite: 2].
+  * **Category Rating Heatmaps & Dynamic Metric Selectors:** Enables drill-down exploration into ratings and application metrics across categories[cite: 2].
 
 ---
 
