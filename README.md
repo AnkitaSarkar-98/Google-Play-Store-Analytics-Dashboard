@@ -20,16 +20,16 @@ This repository contains an interactive analytics dashboard designed to analyze 
 ## Tools & Methods
 
 ### Tools
-* **Tableau Desktop / Tableau Public:** Used to construct interactive charts, cross-filters, custom parameters, and dashboard views[cite: 2].
-* **Data Processing & Prep:** Aggregated, formatted, and parsed Google Play Store data records for analytics consumption[cite: 2].
+* **Tableau Desktop:** Used to construct interactive charts, cross-filters, custom parameters, and dashboard views.
+* **Data Processing & Prep:** Aggregated, formatted, and parsed Google Play Store data records for analytics consumption.
 
 ### Methods
 * **Visualizations Applied:**
-  * **Scorecards:** Displays high-level aggregated summary metrics (Avg Rating, Installs, Reviews, Paid App %)[cite: 2].
-  * **Packed Bubble Charts:** Illustrates total installations categorized by market domain[cite: 2].
-  * **Bar & Column Graphs:** Highlights app distribution by category, rating frequency, and OS dependency[cite: 2].
-  * **Donut Charts:** Displays app business type splits (Free vs. Paid offerings)[cite: 2].
-  * **Category Rating Heatmaps & Dynamic Metric Selectors:** Enables drill-down exploration into ratings and application metrics across categories[cite: 2].
+  * **Scorecards:** Displays high-level aggregated summary metrics (Avg Rating, Installs, Reviews, Paid App %).
+  * **Packed Bubble Charts:** Illustrates total installations categorized by market domain.
+  * **Bar & Column Graphs:** Highlights app distribution by category, rating frequency, and OS dependency.
+  * **Donut Charts:** Displays app business type splits (Free vs. Paid offerings).
+  * **Category Rating Heatmaps & Dynamic Metric Selectors:** Enables drill-down exploration into ratings and application metrics across categories.
 
 ---
 
